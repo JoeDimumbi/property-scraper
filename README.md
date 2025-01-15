@@ -26,7 +26,6 @@ Property_Scraper_Master/
 ├── p24_pp_master_scraper.py        # Master script for scraping
 ├── Privateproperty_Scraper.py      # Scraper for PrivateProperty
 ├── Property_24_Page_Scraper.py     # Scraper for Property24
-├── scraper_log.log                 # Logs all activities and errors
 ├── .gitignore                      # Specifies files to ignore in Git
 └── README.md                       # Project documentation
 ```
