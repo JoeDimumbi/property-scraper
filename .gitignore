@@ -1,4 +1,23 @@
-* . c s v  
- * . l o g  
- _ _ p y c a c h e _ _ /  
- 
+# Updated .gitignore
+
+# Ignore CSV files
+*.csv
+
+# Ignore log files
+*.log
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore IDE configurations
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db

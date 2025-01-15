@@ -1,0 +1,16 @@
+# requirements.txt
+
+# HTTP Requests
+requests
+
+# HTML Parsing
+beautifulsoup4
+
+# Data Handling
+pandas
+
+# For logging and scheduling (optional future improvements)
+schedule
+
+# For handling retries (optional future improvements)
+tenacity
